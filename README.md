@@ -2,7 +2,7 @@
 
 # ✨ **LiveScope: Real-Time Object Detection & Recognition** ✨
 
-Welcome to **LiveScope**! Dive into the world of **real-time object detection and recognition**, powered by **JavaScript** and **TensorFlow.js**. With a sleek design and engaging features, LiveScope is perfect for applications in surveillance, autonomous vehicles, and beyond! Access the Scribble.live notebook using https://app.scribbler.live/?jsnb=github:DurvankGade/LiveScope-Real-time-Object-Detection/ScribbleNotebook
+Welcome to **LiveScope**! Dive into the world of **real-time object detection and recognition**, powered by **JavaScript** and **TensorFlow.js**. With a sleek design and engaging features, LiveScope is perfect for applications in surveillance, autonomous vehicles, and beyond! Access the Scribble.live notebook using [https://app.scribbler.live/?jsnb=github:DurvankGade/LiveScope-Real-time-Object-Detection/ScribbleNotebook](https://app.scribbler.live/?jsnb=github:DurvankGade/LiveScope-Real-time-Object-Detection/ScribbleNotebook)
 
 ---
 
